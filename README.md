@@ -1,6 +1,7 @@
 # QAP-4-Files-WM
 
 Python:
+
 This program defines functions to calculate premiums, total costs, and monthly payments based on user input. Overall, this program provides a structured way to enter customer information, calculate insurance costs, and display a receipt. It's designed to be user-friendly and can handle multiple customers efficiently.
 How to use:
 1. You enter the customers name
@@ -14,4 +15,5 @@ How to use:
 
 
 JavaScript:
+
 This code defines a "MotelCustomer" with attributes for a motel customer and methods to calculate the age and duration of stay, as well as to generate a description of the customer. It then creates a sample customer object and logs the generated description. Also you can embed this in HTML by creating a function that generates HTML based on the customer object's properties.
